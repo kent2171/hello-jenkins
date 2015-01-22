@@ -10,6 +10,5 @@ public class MathTest {
         Assert.assertEquals(1, Math.factorial(0), 0);
         Assert.assertEquals(6, Math.factorial(3), 0);
         Assert.assertEquals(24, Math.factorial(4), 0);
-        Assert.assertEquals(120, Math.factorial(5), 0);
     }
 }
